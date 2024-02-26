@@ -82,6 +82,7 @@ Explanation:
 -normalize=True: The normalize parameter is set to True, which means the counts will be normalized to represent relative frequencies (percentages) instead of absolute counts.
 -*100: After normalization, the counts are multiplied by 100 to convert the relative frequencies into percentages.
 -round(..., 2): The resulting percentages are then rounded to two decimal places.
+
 ![image](https://github.com/Shalin-01/Python-for-ML/assets/145157389/9c2e99eb-09b7-4030-a27a-6011e49c7b50)
 
 ### Creating a percentage analysis of Name-wise distribution of data
